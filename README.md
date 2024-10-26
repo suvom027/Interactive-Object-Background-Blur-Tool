@@ -47,7 +47,6 @@ Users can create masks of any complexity, with the ability to refine selections 
 <img src="path/to/mask-creation-image.png" width="620">
 </p>
 
-[Continue with similar sections for other features like Blur Application, Performance Analysis, etc.]
 
 ## Result Analysis
 The Interactive Object Background Blur Tool successfully demonstrates its capability to enhance images by creating professional-looking selective focus effects. Throughout various tests, the tool has shown significant improvements in image composition and visual appeal. Each implemented feature has been evaluated based on its functionality, where the following results were observed:
