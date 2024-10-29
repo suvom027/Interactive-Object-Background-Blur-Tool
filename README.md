@@ -44,9 +44,8 @@ Users can create masks of any complexity, with the ability to refine selections 
 **Mask Creation Process**
 </h1>
 <p align="center">
-<img src="path/to/mask-creation-image.png" width="620">
+<img src="https://github.com/user-attachments/assets/a3d92680-56c0-44d9-83c1-34d1200ccf8f", width="300">
 </p>
-
 
 ## Result Analysis
 The Interactive Object Background Blur Tool successfully demonstrates its capability to enhance images by creating professional-looking selective focus effects. Throughout various tests, the tool has shown significant improvements in image composition and visual appeal. Each implemented feature has been evaluated based on its functionality, where the following results were observed:
@@ -55,6 +54,16 @@ The Interactive Object Background Blur Tool successfully demonstrates its capabi
 2. **Blur Application**: Smooth and natural-looking background blur
 3. **Performance**: Efficient processing of high-resolution images
 4. **User Interface**: Intuitive controls and real-time preview capabilities
+
+<h1 align="center">
+
+**Output**
+</h1>
+<p align="center">
+<img src="https://github.com/user-attachments/assets/26ebf4f0-d821-4676-a013-c2a8b8cb6af2", width="700">
+</p>
+
+
 
 ## Applications
 The Interactive Object Background Blur Tool has various applications in:
